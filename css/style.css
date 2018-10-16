@@ -887,17 +887,17 @@ button:focus {
 
 /* Pins for floor 2 */
 .pin--2-1 { top: 48vmin; left: 55vmin; }
-.pin--2-2 { top: 20vmin; left: 30vmin; }
-.pin--2-3 { top: 20vmin; left: 70vmin; }
-.pin--2-4 { top: 34vmin; left: 58vmin; }
+.pin--2-2 { top: 10vmin; left: 23vmin; }
+.pin--2-3 { top: 10vmin; left: 60vmin; }
+.pin--2-4 { top: 27vmin; left: 48vmin; }
 .pin--2-5 { top: 48vmin; left: 47vmin; }
 .pin--2-6 { top: 50vmin; left: 60vmin; }
-.pin--2-7 { top: 34vmin; left: 51vmin; }
-.pin--2-8 { top: 34vmin; left: 64vmin; }
+.pin--2-7 { top: 27vmin; left: 41vmin; }
+.pin--2-8 { top: 27vmin; left: 54vmin; }
 .pin--2-9 { top: 55vmin; left: 59vmin; }
 .pin--2-10 { top: 55vmin; left: 47vmin; }
-.pin--2-11 { top: 34vmin; left: 40vmin; }
-.pin--2-12 { top: 34vmin; left: 70vmin; }
+.pin--2-11 { top: 27vmin; left: 30vmin; }
+.pin--2-12 { top: 27vmin; left: 60vmin; }
 
 /* Pins for floor 3 */
 .pin--3-1 { top: 17vmin; left: 15vmin; }
