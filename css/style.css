@@ -911,12 +911,13 @@ button:focus {
 .pin--2-4 { top: 27vmin; left: 48vmin; }
 .pin--2-5 { top: 48vmin; left: 47vmin; }
 .pin--2-6 { top: 50vmin; left: 60vmin; }
-.pin--2-7 { top: 27vmin; left: 41vmin; }
+.pin--2-7 { top: 24vmin; left: 41vmin; }
 .pin--2-8 { top: 27vmin; left: 54vmin; }
 .pin--2-9 { top: 55vmin; left: 59vmin; }
 .pin--2-10 { top: 55vmin; left: 47vmin; }
 .pin--2-11 { top: 27vmin; left: 30vmin; }
 .pin--2-12 { top: 27vmin; left: 60vmin; }
+.pin--2-13 { top: 30vmin; left: 42vmin; }
 
 /* Pins for floor 3 */
 .pin--3-1 { top: 17vmin; left: 15vmin; }
