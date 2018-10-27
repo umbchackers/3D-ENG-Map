@@ -10,13 +10,6 @@ An interactive 3D ENG map concept with a sidebar search and pin indicators for e
 - Other icons from [Flaticon](http://www.flaticon.com/) and [Freepik](http://www.freepik.com/).
 - SVG icon system generated with [IcoMoon](https://icomoon.io/app)
 
-## License
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: [License](http://tympanus.net/codrops/licensing/)
-[© Codrops 2016](http://www.codrops.com)
-
 
 
 
