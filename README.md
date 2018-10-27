@@ -1,6 +1,6 @@
 # Interactive 3D ENG Map
 
-An interactive 3D ENG map concept with a sidebar search and pin indicators for every level. 
+An interactive 3D Engineering Building at UMBC with a concept with a sidebar search and pin indicators for every level. 
 
 
 ## Credits
